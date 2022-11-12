@@ -1,0 +1,10 @@
+nav ul {
+	list-style: none;
+}
+#internet a {
+	text-decoration: underline;
+	color: black;
+}
+body {
+	padding-bottom: 50%;
+}

@@ -1,0 +1,29 @@
+#nav_container{
+	display: flex;
+	flex-flow: row wrap;
+	font-size: 1em;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	align-content: center;
+	padding: 0;
+}
+#learning_modules {
+	background-color: #B22222; /* #420C09; */
+	border-radius: 15px 15px 0 0;
+}
+#learning_modules a {
+	color: black;
+	line-height: 90px;
+}
+.nav_div {
+	border: ridge;
+	flex: 1 0 30%;
+	text-align: center;
+	min-height: 100px;
+	border-color: #B22222;
+	background-color: white;
+}
+.indirect_h {
+	background-color: transparent;
+}
